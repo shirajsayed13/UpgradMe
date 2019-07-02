@@ -7,7 +7,7 @@ To get understanding of architecture
 checkout this link:
 https://developer.android.com/jetpack/docs/guide
 
-![alt text](android_architecture.png)
+![android_architecture](https://user-images.githubusercontent.com/25314883/60485418-8faf6f00-9cba-11e9-9100-4c061039bb2d.png)
 
 Step 1:
 Add Required Dependencies
